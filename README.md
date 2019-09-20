@@ -19,6 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Cost and scalability analysis
 * Responsive UI design
 * Mobile friendly
+* PC to phone sync
 * Accessibility 
 * Users can have multiple “books/channels” for journaling about each plant. 
 * User authentication
@@ -45,15 +46,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Identity
 * Twilio API
 
-## Prototype
-I have included some screen shots of the general design of Sprouter the full prototype can be experienced [here](https://xd.adobe.com/view/8783e05f-7a8e-45e8-4968-4bc4bbb9d99a-f1b2/).
+## Design
+These are rough mockups showing the general flow off the app. The full prototype can be experienced [here](https://xd.adobe.com/view/8783e05f-7a8e-45e8-4968-4bc4bbb9d99a-f1b2/), hosted by Adobe XD.
 
 ![sprouter splash page/ log in page](src/img/mockup/splashLogIn.jpg)
 ![sprouter home page](src/img/mockup/homepagePlantList.jpg)
 ![sprouter plant profile page](src/img/mockup/plantProfile.jpg)
 ![notes view on click photo](src/img/mockup/onClickPlantPicShowNotes.jpg)
-
-## User Stories
 
 ## Available Scripts
 
