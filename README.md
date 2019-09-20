@@ -12,9 +12,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * A user can have multiple plant journals and see the notes for a particular plant.
 * UI design with laptop screen in mind; though my design will keep mobile screens in mind.
 
-## Beyond MVP
+## Stretch Goals
 * It would be ideal if users can upload pictures of their plants to go along with the text.
 * Host app
+* Responsive UI design
 * Mobile friendly
 * Accessibility 
 * Users can have multiple “books/channels” for journaling about each plant. 
@@ -22,6 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Make app work well on mobile --- styling for different screen sizes.
 * Add tags for user to search their plants
 * Make stories for plants, like before and after to show plant growth.
+* Connect with Google Photos 
 * Add reminders --- twilio API to send texts or emails.
 
 ## Technologies
