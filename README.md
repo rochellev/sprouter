@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * A user can have multiple plant journals and see the notes for a particular plant.
 * UI design with laptop screen in mind; though my design will keep mobile screens in mind.
 
-## Stretch Goals
+## Beyond MVP
 * It would be ideal if users can upload pictures of their plants to go along with the text.
 * Host app
 * Responsive UI design
@@ -43,11 +43,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Twilio API
 
 ## Prototype
-Adobe XD was used to design Sprouter
+Adobe XD was used to design Sprouter. These are rough designs, meant to plan out components.
 
-![sprouter home page](src/img/homepage-plantlist.jpg)
-
-![sprouter splash page/ log in page](src/img/splash-login.jpg)
+![sprouter splash page/ log in page](src/img/splashLogIn.jpg)
+![sprouter home page](src/img/homepagePlantList.jpg)
+![sprouter plant profile page](src/img/plantProfile.jpg)
 
 ## User Stories
 
