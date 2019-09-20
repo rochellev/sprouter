@@ -32,6 +32,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * HTML
 * CSS
 * Bootstrap
+* Adobe XD for UI design
 `Beyond MVP` <br>
 * Hosting app
 * User Authentication
