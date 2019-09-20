@@ -45,7 +45,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Prototype
 Adobe XD was used to design Sprouter
 
-![sprouter home page](src\img\homepage-listview.JPG)
+![sprouter home page](src\img\homepage-plantslist.jpg)
+
+![sprouter splash page/ log in page](src/img/splash-login.jpg)
 
 ## User Stories
 
