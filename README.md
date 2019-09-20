@@ -1,5 +1,5 @@
 # Sprouter
-## Rochelle Roberts<br>
+## Rochelle Roberts <br>
 
 
 ## Description
@@ -7,7 +7,7 @@ Sprouter is a journaling  app for plant lovers to document the growth and life o
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 
-## MVP
+## Minimum Viable Product (MVP)
 * A user can add notes about their plants.
 * A user can have multiple plant journals and see the notes for a particular plant.
 
@@ -32,7 +32,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * HTML
 * CSS
 * Bootstrap
-`Beyond MVP`
+`Beyond MVP` <br>
 * Hosting app
 * User Authentication
 * Identity
