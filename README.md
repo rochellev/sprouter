@@ -15,6 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Beyond MVP
 * It would be ideal if users can upload pictures of their plants to go along with the text.
 * Host app
+* Limit image size  -- or total image sizes
+* Cost and scalability analysis
 * Responsive UI design
 * Mobile friendly
 * Accessibility 
@@ -44,11 +46,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Twilio API
 
 ## Prototype
-Designed with Adobe XD. These are rough designs, meant to plan out components. [View Prototype](https://xd.adobe.com/view/8783e05f-7a8e-45e8-4968-4bc4bbb9d99a-f1b2/)
+I have included some screen shots of the general design of Sprouter the full prototype can be experienced [here](https://xd.adobe.com/view/8783e05f-7a8e-45e8-4968-4bc4bbb9d99a-f1b2/).
 
 ![sprouter splash page/ log in page](src/img/mockup/splashLogIn.jpg)
-![log in view](src/img/mockup/logInView.jpg)
-![register view](src/img/mockup/registerView.jpg)
 ![sprouter home page](src/img/mockup/homepagePlantList.jpg)
 ![sprouter plant profile page](src/img/mockup/plantProfile.jpg)
 ![notes view on click photo](src/img/mockup/onClickPlantPicShowNotes.jpg)
