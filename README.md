@@ -35,8 +35,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * HTML
 * CSS
 * Bootstrap
-* Adobe XD for UI design
-`Beyond MVP` <br>
+* Adobe XD for UI design <br>
+`Beyond MVP` 
 * Hosting app
 * User Authentication
 * Identity
@@ -49,7 +49,6 @@ Adobe XD was used to design Sprouter
 
 ## User Stories
 
-src\img\homepage-listview.JPG
 ## Available Scripts
 
 In the project directory, you can run:
