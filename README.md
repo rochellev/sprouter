@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Minimum Viable Product (MVP)
 * A user can add notes about their plants.
 * A user can have multiple plant journals and see the notes for a particular plant.
+* UI design with laptop screen in mind; though my design will keep mobile screens in mind.
 
 ## Beyond MVP
 * It would be ideal if users can upload pictures of their plants to go along with the text.
