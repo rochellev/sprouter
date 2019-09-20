@@ -7,6 +7,12 @@ Sprouter is a web app for plant lovers to document the growth and life of their 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 
+## Technologies
+* React
+* Redux
+* JavaScript, JSX
+* AWS S3
+
 ## User Stories
 
 
