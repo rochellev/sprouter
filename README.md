@@ -2,16 +2,41 @@
 ## Rochelle Roberts<br>
 
 
-## Project Description
-Sprouter is a web app for plant lovers to document the growth and life of their plants. I created this app to explore React and to combine my love of plants and programming.
+## Description
+Sprouter is a journaling  app for plant lovers to document the growth and life of their plants. I created this app to explore React and to combine my love of plants with my passion for programming.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 
+## MVP
+* A user can add notes about their plants.
+* A user can have multiple plant journals and see the notes for a particular plant.
+
+## Beyond MVP
+* It would be ideal if users can upload pictures of their plants to go along with the text.
+* Host app
+* Mobile friendly
+* Accessibility 
+* Users can have multiple “books/channels” for journaling about each plant. 
+* User authentication
+* Make app work well on mobile --- styling for different screen sizes.
+* Add tags for user to search their plants
+* Make stories for plants, like before and after to show plant growth.
+* Add reminders --- twilio API to send texts or emails.
+
 ## Technologies
+`MVP`
 * React
 * Redux
 * JavaScript, JSX
 * AWS S3
+* HTML
+* CSS
+* Bootstrap
+`Beyond MVP`
+* Hosting app
+* User Authentication
+* Identity
+* Twilio API
 
 ## User Stories
 
