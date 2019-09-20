@@ -3,7 +3,7 @@
 
 ##Why Sprouter Journal app
 - more context than a paper pen journal
-- photos
+- photo journal
 - posts social media
 - more rewarding
 - markdown support

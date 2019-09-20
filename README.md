@@ -2,7 +2,7 @@
 ## Rochelle Roberts<br>
 
 
-## Description
+## Project Description
 Sprouter is a web app for plant lovers to document the growth and life of their plants. I created this app to explore React and to combine my love of plants and programming.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
