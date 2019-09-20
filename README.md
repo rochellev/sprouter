@@ -44,7 +44,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Twilio API
 
 ## Prototype
-Designed with Adobe XD. ![View Prototype](https://xd.adobe.com/view/8783e05f-7a8e-45e8-4968-4bc4bbb9d99a-f1b2/) These are rough designs, meant to plan out components.
+Designed with Adobe XD. These are rough designs, meant to plan out components. [View Prototype](https://xd.adobe.com/view/8783e05f-7a8e-45e8-4968-4bc4bbb9d99a-f1b2/)
 
 ![sprouter splash page/ log in page](src/img/mockup/splashLogIn.jpg)
 ![log in view](src/img/mockup/logInView.jpg)
