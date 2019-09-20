@@ -45,10 +45,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Prototype
 Adobe XD was used to design Sprouter. These are rough designs, meant to plan out components.
 
-![sprouter splash page/ log in page](src/img/splashLogIn.jpg)
-![sprouter home page](src/img/homepagePlantList.jpg)
-![sprouter plant profile page](src/img/plantProfile.jpg)
-![notes view on click photo](src/img/onClickPlantPicShowNotes.jpg)
+![sprouter splash page/ log in page](src/img/mockup/splashLogIn.jpg)
+![log in view](src/img/mockup/logInView.jpg)
+![register view](src/img/mockup/registerView.jpg)
+![sprouter home page](src/img/mockup/homepagePlantList.jpg)
+![sprouter plant profile page](src/img/mockup/plantProfile.jpg)
+![notes view on click photo](src/img/mockup/onClickPlantPicShowNotes.jpg)
 
 ## User Stories
 
