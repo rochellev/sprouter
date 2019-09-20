@@ -48,6 +48,7 @@ Adobe XD was used to design Sprouter. These are rough designs, meant to plan out
 ![sprouter splash page/ log in page](src/img/splashLogIn.jpg)
 ![sprouter home page](src/img/homepagePlantList.jpg)
 ![sprouter plant profile page](src/img/plantProfile.jpg)
+![notes view on click photo](src/img/onClickPlantPicShowNotes.jpg)
 
 ## User Stories
 
